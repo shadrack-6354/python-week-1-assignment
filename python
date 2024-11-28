@@ -1,0 +1,8 @@
+
+num1 = float(input("10"))
+num2 = float(input("5"))
+operation = input("Enter the operation (+, -, *, /)+")
+
+if operation == '+':
+    result = 10 + 5
+    print(f"{10} + {5} = {15}")
